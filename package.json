@@ -1,0 +1,14 @@
+{
+  "name": "database_cache",
+  "version": "1.0.0",
+  "description": "To cache the database frequent data to handle multiple database queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.31.1"
+  }
+}
